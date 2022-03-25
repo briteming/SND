@@ -1,5 +1,4 @@
-module snd
-
+module github.com/briteming/snd
 go 1.13
 
 require (
